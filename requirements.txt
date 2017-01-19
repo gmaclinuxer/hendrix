@@ -6,3 +6,13 @@ jinja2
 pychalk==0.0.5
 service_identity
 six
+
+Django==1.8.11
+Twisted==16.1.1
+watchdog==0.8.3
+zope.interface==4.0.5
+txsockjs==1.2.2
+cffi==1.9.1
+hendrix==2.0.2
+invocations==0.12.0
+service-identity==16.0.0
